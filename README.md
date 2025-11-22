@@ -1,2 +1,2 @@
 # apsco
-A mobile school paying and applying for fees platform
+A mobile school fees paying and applying for schools platform
